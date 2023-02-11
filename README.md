@@ -10,6 +10,6 @@
 
 ### Languages & Technologies
 <img align="left" alt="c++" src="https://img.shields.io/badge/c++%20-%2320232a.svg?&style=for-the-badge&logo=cplusplus&logoColor=%2361DAFB" />
-[<img align="left" alt="Python" src="https://img.shields.io/badge/-Python-61DAFB?logo=python&logoColor=yellow%blue&style=plastic%logoWidth=30" />
+<img align="left" alt="Python" src="https://img.shields.io/badge/-Python-61DAFB?logo=python&logoColor=yellow%blue&style=plastic%logoWidth=30" />
 <br>
 <br>
