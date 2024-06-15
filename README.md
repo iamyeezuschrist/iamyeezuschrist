@@ -1,5 +1,9 @@
 Machine Learning Engineer @EVIST
-University of Amsterdam BSc Business Analytics
+
+University of Amsterdam BSc Business Analytics 
+
 Higher School of Economics BSc Computer Science
+
 Python/C++/Golang
+
 Medium.com/@analturing
