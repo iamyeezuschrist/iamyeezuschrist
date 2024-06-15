@@ -6,4 +6,3 @@ Higher School of Economics BSc Computer Science
 
 Python/C++/Golang
 
-Medium.com/@analturing
