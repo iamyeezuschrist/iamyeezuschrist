@@ -1,8 +1,8 @@
-Machine Learning Engineer @EVIST
+C++ SWE @ somewhere
 
 University of Amsterdam BSc Business Analytics 
 
-Higher School of Economics BSc Computer Science
+YSDA Infrastructure
 
-Python/C++
+C++
 
